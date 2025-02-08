@@ -1,0 +1,10 @@
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\bin\Debug\Buffet_Project.exe.config
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\bin\Debug\Buffet_Project.exe
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\bin\Debug\Buffet_Project.pdb
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\obj\Debug\Buffet_Project.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\obj\Debug\Buffet_Project.Form1.resources
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\obj\Debug\Buffet_Project.Properties.Resources.resources
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\obj\Debug\Buffet_Project.csproj.GenerateResource.cache
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\obj\Debug\Buffet_Project.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\obj\Debug\Buffet_Project.exe
+C:\Users\merve\source\repos\Buffet_Project\Buffet_Project\obj\Debug\Buffet_Project.pdb
