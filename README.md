@@ -89,6 +89,7 @@
 <p data-start="2346" data-end="2396" class="">Farklı ödeme türleri (nakit, kart, dijital cüzdan)</p>
 </li>
 </ul>
+<p data-start="2403" data-end="2578" class="">🎯 <strong data-start="2406" data-end="2424">Buffet_Project</strong>, hem C# öğrenmek isteyenler hem de temel bir satış sistemi geliştirmek isteyenler için ideal bir başlangıç projesidir. Öğren, geliştir, katkıda bulun! 🚀</p>
 
 
 
